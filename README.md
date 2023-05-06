@@ -12,7 +12,7 @@
 
 :notebook: 'main.py' nos guiara a que ingresemos la informacion correspondiente sobre la formula1 y al final con calculos internos nos dara la informacion de la escuderia mas cara anualmente. 
 
-:notebook: 'mainCo.py'
+:notebook: 'mainCo.py' nos lleva a toda la informacion correspondiene sobre los cockteles
 
 # Colaboradores
 Johan Quintero Alvarez
@@ -22,7 +22,7 @@ Juan Esteban Torres Ibarguen
 Thomas David Zuluaga Florez
 
 # Contacto
-## :bust_in_silhouette:https://github.com/Black-software100
+## :bust_in_silhouette:https://github.com/KeeoNorrea
 
 ## :bust_in_silhouette:https://github.com/Black-software100
 
